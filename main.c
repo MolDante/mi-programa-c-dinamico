@@ -28,6 +28,6 @@ int main() {
     // Liberar la memoria asignada
     free(arr);
     printf("Memoria liberada.\n");
-
+    printf("Programna finalizado.\n");
     return 0;
 }
